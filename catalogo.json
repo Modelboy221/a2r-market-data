@@ -5,8 +5,8 @@
     "brand": "A2R Electrodomestics",
     "description": "Detergente Defa, 1000 gr, Super Espumoso",
     "stock": 15,
-    "price": 500.0,
-    "imageUrl": "https://i.ibb.co/tu-imagen-ejemplo.jpg"
+    "price": 500,
+    "imageUrl": "https:\/\/i.ibb.co\/tu-imagen-ejemplo.jpg"
   },
   {
     "id": "2",
@@ -14,8 +14,16 @@
     "brand": "A2R Electrodomestics",
     "description": "Toallitas húmedas de alta calidad",
     "stock": 2,
-    "price": 266.0,
-    "imageUrl": "https://i.ibb.co/tu-imagen-ejemplo-2.jpg"
+    "price": 266,
+    "imageUrl": "https:\/\/i.ibb.co\/tu-imagen-ejemplo-2.jpg"
+  },
+  {
+    "id": "1789699612954",
+    "name": "Motor",
+    "brand": "A2R Electrodomestics",
+    "description": "etz",
+    "stock": 2,
+    "price": 2580,
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/Modelboy221\/a2r-market-data\/main\/images\/img_1789699612954.jpg"
   }
 ]
-
