@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1",
+    "name": "Detergente Defa",
+    "brand": "A2R Electrodomestics",
+    "description": "Detergente Defa, 1000 gr, Super Espumoso",
+    "stock": 15,
+    "price": 500.0,
+    "imageUrl": "https://i.ibb.co/tu-imagen-ejemplo.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Cabana",
+    "brand": "A2R Electrodomestics",
+    "description": "Toallitas húmedas de alta calidad",
+    "stock": 2,
+    "price": 266.0,
+    "imageUrl": "https://i.ibb.co/tu-imagen-ejemplo-2.jpg"
+  }
+]
+
