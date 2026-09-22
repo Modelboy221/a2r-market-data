@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "¡Aceptamos Transferencia CUP (QvaPay)! 🔥",
+    "description": "Facilitamos tus compras digitales. Si posees saldo en QvaPay o transferencias CUP, acéptala con nosotros sin complicaciones ni recargos abusivos. ¡La tecnología al alcance de tus manos!",
+    "priceText": "Tasa Preferencial",
+    "imageUrl": "https://raw.githubusercontent.com/Modelboy221/a2r-market-data/main/images_promo/transferencia_promo.jpg",
+    "active": true
+  },
+  {
+    "id": "2",
+    "title": "Combo Electrodoméstico 2x1",
+    "description": "Lleva dos dispositivos seleccionados con un descuento especial en su valor total combinando efectivo y facilidades de pago.",
+    "priceText": "$45.00 USD el Combo",
+    "imageUrl": "https://raw.githubusercontent.com/Modelboy221/a2r-market-data/main/images_promo/combo_2x1.jpg",
+    "active": true
+  }
+]
