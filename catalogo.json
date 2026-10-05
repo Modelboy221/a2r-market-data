@@ -7,14 +7,5 @@
     "stock": 2,
     "price": 5,
     "imageUrl": "https:\/\/raw.githubusercontent.com\/Modelboy221\/a2r-market-data\/main\/images\/img_1790098251072.jpg"
-  },
-  {
-    "id": "1790098323672",
-    "name": "Jabón de Baño",
-    "brand": "A2R Electrodomestics",
-    "description": "Jabón aromático, Aroma de Limón",
-    "stock": 6,
-    "price": 2,
-    "imageUrl": "https:\/\/raw.githubusercontent.com\/Modelboy221\/a2r-market-data\/main\/images\/img_1790098323672.jpg"
   }
 ]
