@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "1791766641437",
+    "name": "Ventilador Recargable",
+    "brand": "A2R Electrodomestics",
+    "description": "Marca: ColdSky, capacidad de batería: 20000mAh, 8 velocidades, doble aspas, control remoto y cable de carga",
+    "stock": 3,
+    "price": 60,
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/Modelboy221\/a2r-market-data\/main\/images\/img_1791766641437.jpg"
+  }
+]
